@@ -1,0 +1,21 @@
+date,client_id,client_type,org_size,service_interest,interaction_type,channel,topic,complexity_level,executive_friendly,roi_focus,education_asset_used,engagement_score,follow_up_scheduled,time_to_response_hours,stage,trust_score,conversion_flag,notes_category
+2025-11-04,C001,Clinic,Small,Interoperability,Intro Call,Video Call,ROI/Business Value,Medium,1,1,One-pager,4,1,18,Discovery,4,0,Needs Education
+2025-11-06,C002,Community Hospital,Mid,HIE Integration,Discovery,Video Call,HIE,High,0,1,Slide deck,3,1,36,Discovery,3,0,Confusion
+2025-11-07,C003,Regional Health System,Mid,FHIR Enablement,Executive Brief,In-person,FHIR,High,1,1,Case study,5,1,6,Proposal,5,1,Strong Fit
+2025-11-09,C004,Clinic,Small,HL7 Modernization,Follow-up,Email,HL7,Medium,1,0,None,3,0,72,Lead,3,0,Budget Concern
+2025-11-10,C005,Community Hospital,Mid,Interoperability,Demo,Video Call,ROI/Business Value,Low,1,1,ROI calculator,5,1,4,Proposal,5,1,Strong Fit
+2025-11-12,C006,Clinic,Small,FHIR Enablement,Discovery,Phone,FHIR,High,0,0,None,2,1,48,Discovery,2,0,Confusion
+2025-11-13,C007,Regional Health System,Mid,HIE Integration,Workshop,Video Call,Change Management,Medium,1,1,Slide deck,4,1,12,Proposal,4,1,Strong Fit
+2025-11-15,C008,Clinic,Small,Interoperability,Follow-up,Email,ROI/Business Value,Low,1,1,One-pager,4,1,10,Discovery,4,0,Timing
+2025-11-16,C009,Community Hospital,Mid,HL7 Modernization,Demo,Video Call,HL7,High,0,1,Slide deck,3,1,28,Negotiation,3,0,Needs Education
+2025-11-18,C010,Clinic,Small,HIE Integration,Executive Brief,Video Call,HIE,Medium,1,1,Case study,4,1,9,Proposal,4,1,Strong Fit
+2025-11-20,C011,Regional Health System,Mid,FHIR Enablement,Discovery,Video Call,FHIR,Medium,1,0,Slide deck,3,1,20,Discovery,3,0,Needs Education
+2025-11-21,C012,Community Hospital,Mid,Interoperability,Follow-up,Phone,ROI/Business Value,Low,1,1,ROI calculator,5,1,3,Proposal,5,1,Strong Fit
+2025-11-23,C001,Clinic,Small,Interoperability,Demo,Video Call,ROI/Business Value,Medium,1,1,Slide deck,4,1,8,Proposal,4,1,Strong Fit
+2025-11-24,C002,Community Hospital,Mid,HIE Integration,Follow-up,Email,HIE,High,0,1,None,2,0,96,Discovery,2,0,Confusion
+2025-11-26,C003,Regional Health System,Mid,FHIR Enablement,Follow-up,Phone,FHIR,Medium,1,1,One-pager,4,1,14,Negotiation,4,1,Strong Fit
+2025-11-28,C004,Clinic,Small,HL7 Modernization,Discovery,Video Call,HL7,Medium,1,0,Slide deck,3,1,40,Discovery,3,0,Budget Concern
+2025-11-30,C005,Community Hospital,Mid,Interoperability,Workshop,In-person,Strategic Value,Low,1,1,Case study,5,1,5,Negotiation,5,1,Trusted Advisor
+2025-12-02,C006,Clinic,Small,FHIR Enablement,Follow-up,Email,FHIR,High,0,0,None,2,0,120,Discovery,2,0,Confusion
+2025-12-03,C007,Regional Health System,Mid,HIE Integration,Executive Brief,Video Call,ROI/Business Value,Medium,1,1,ROI calculator,4,1,7,Proposal,4,1,Strong Fit
+2025-12-05,C008,Clinic,Small,Interoperability,Follow-up,Phone,Strategic Value,Low,1,1,One-pager,4,1,11,Proposal,4,1,Trusted Advisor
