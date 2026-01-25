@@ -1,25 +1,18 @@
-# Health Informatics Leadership Impact Dashboard with AI Insights
-
-## Project Overview
-This project was completed as part of the MSHI Leadership Practicum. It demonstrates how health informatics leaders can use data and AI tools to identify workflow challenges, support decision-making, and propose realistic improvement strategies.
-
-## Practicum Context
-This project is based on a simulated/de-identified operational dataset modeled after a healthcare organization similar to MSM Community Care Network (MSM-CCN). No protected health information (PHI) is included.
+## Practicum Context (De-identified)
+This project is based on a de-identified/simulated operational workflow dataset aligned with a hybrid care model (e.g., primary care, behavioral health, diabetes care, telehealth). No PHI is included.
 
 ## Leadership Question
-How can operational data be used to identify workflow or communication bottlenecks that impact patient engagement, efficiency, and satisfaction?
+Where are workflow or communication bottlenecks occurring over the last 3 months, and what leadership actions could improve efficiency, patient engagement, and satisfaction?
 
-## Data Description
-- Time period: Last 3 months  
-- Data type: Operational workflow and appointment data  
-- Format: CSV  
-- Rows: Approximately 100–300 simulated client interactions  
+## Dataset
+- File: `data/operational_workflow_data.csv`
+- Timeframe: last 3 months (operational period)
+- Unit of analysis: one row per client interaction/visit
+- Data type: operational workflow / appointment and service activity data
 
-## Tools & Technologies
-- GitHub
-- Python (Pandas, Matplotlib) / Excel
-- AI tools (e.g., ChatGPT) for leadership insights
+## Week 3 Status
+- Repository created and organized
+- Dataset uploaded to `/data`
+- Data documentation completed (`DATA_NOTES.md`)
 
-## Project Status
-🚧 In progress — data analysis and leadership impact report will be added in subsequent weeks.
 
