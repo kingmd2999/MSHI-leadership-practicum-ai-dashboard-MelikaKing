@@ -19,3 +19,5 @@ Where are workflow or communication bottlenecks occurring over the last 3 months
 
 - [Services and Organizational Goal Alignment – D&E Networks LLC](leadership-module/services_and_alignment.md)
 
+## Week 4 – AI-Generated Leadership Insights
+- [AI Insights & Leadership Critique](analysis_ai/ai_insights.md)
