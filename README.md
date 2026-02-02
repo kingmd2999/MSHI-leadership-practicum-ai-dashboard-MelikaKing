@@ -15,4 +15,7 @@ Where are workflow or communication bottlenecks occurring over the last 3 months
 - Dataset uploaded to `/data`
 - Data documentation completed (`DATA_NOTES.md`)
 
+## Leadership & Organizational Alignment
+
+- [Services and Organizational Goal Alignment – D&E Networks LLC](leadership-module/services_and_alignment.md)
 
